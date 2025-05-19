@@ -7,55 +7,11 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 <!---p.1--->
 *What are the conditions when you do your best work? This could be things like I write best in the mornings, I am comfortable speaking up in new spaces.*
 
+- I need time boundaries and work best if there is a little bit of urgency. Leaving stuff for the "future" tends to mean dragging it out. 
+- I like structure, especially if I am working on multiple projects simultaneously. 
+- I will spend too much time trying to automate a process. 
+- I need to write things down - e.g. github issues, slack chats, etc 
 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 :::
 
 
@@ -68,32 +24,12 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 *Think across your different workflows. Where do you do your writing? How do you manage citations or versions? How do software and files connect together? If you analyze data or images, what do you use?*
 
 
-  
+- I tend to write in google docs or markdown documents
+- I use zotero to manage citations
+- I use git for version control or rely on built in version control in google drive 
+- Tend to program in R using Rstudio
+- Mostly working with CSV files, R scripts or Google Docs for data storage, programming, and writing. 
 
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
 :::
 
 
@@ -105,28 +41,11 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *You can do this think of a specific project or piece of your workflow, or multiple projects. What does an example day or week look like? Do you write notes to yourself or document your process? Do you use sticky notes, apps, a document, a calendar? How do you find things weekly or come back to something after a month, a year?*
 
+- I use google calendar's tasks feature to create rough deadlines for things and keep track of etherial tasks
+- I use github issues for coding specific tasks and apply mscw rules to prioritize those tasks
+- I use my google calendar to estimate task size and block out sections of my day/week for specific tasks
+- I will write notes in a physical notebook from time to time but do not rely on that for long term task tracking. 
   
-
- 
-
-  
-
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
 
 :::
 
@@ -138,33 +57,10 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *Who is included in your workflow? How do you share files and communicate? If you think "I work alone", consider who you talk to, how do you give and receive feedback?*
 
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
+- I strive to be an active listener who collaborates in a constructive manner. 
+- Most collaborations happen via google docs, github, slack discussions, or brain storming sessions on zoom. 
+- I try to give contextualized, constructive feedback that promotes dialogue. 
+- I try to receive feedback with an open mind and the assumption that my collegue is trying to make the thing we are working on better. 
 
 :::
 
@@ -176,43 +72,10 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *There are good things about your workflow. What feels good to you?*
 
-
-  
-
- 
-
-  
- 
- 
- 
-  
-
- 
-
-  
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
+- Ability to document work as its accomplished
+- Working collaboratively with many people
+- Getting things done in a timely manner 
+- Understanding what done means, having clear boundaries on resources
 
 :::
 
@@ -225,40 +88,8 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *Are there places you suspect take longer than they should or could improve in other ways? Are there things you find yourself repeating a lot (copy-pasting, clicking?)*
 
-
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
- 
-
-  
-
-  
-
+- Systems don't necessarily talk to each other
+- Tasks don't always fit into neat buckets
  
 :::
 
@@ -271,7 +102,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *What might be a focus for the next few weeks?*
 
-  
+ Getting Virion in better shape and harmonizing taxonomies through time. 
 
  
 
