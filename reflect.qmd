@@ -11,6 +11,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 - I like structure, especially if I am working on multiple projects simultaneously. 
 - I will spend too much time trying to automate a process. 
 - I need to write things down - e.g. github issues, slack chats, etc 
+- Paired programming/work sessions
 
 :::
 
