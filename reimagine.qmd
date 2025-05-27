@@ -12,51 +12,8 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 *Revisit what was top-of-mind from last week. What else has emerged? What patterns, if any, are coming up for you?*
 
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+ - Virion remains top of mind
+ - task integration remains a challenge 
 
  
 :::
@@ -69,32 +26,9 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
 *What stands out about that place? Why are you motivated to focus on this part of your workflow?*
 
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
+  Integrating task management system is a likely place to start.
+- Both currently serve their purpose
+- Work is becoming more complex and may outstrip my ability to manage time across both platforms
 
 :::
 
@@ -107,32 +41,14 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
 *For example, what was it about how it was organized, how different people contributed, how it was communicated? Remember meetings are part of workflows too*
 
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
+- Trust between team members
+- Clear communication about the common objective
+- Accountability to team members, with grace and understanding when tasks can't be completed
+- Clear definitions of done for tasks
+- Prioritization of tasks
+- Honest assessments of Level of effort
+- Freedom to execute tasks according to expertise
+- Understanding among team members that they should lean on each other when necessary
 
 
 :::
@@ -147,72 +63,7 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
   
 
- 
-
-  
-
- 
-
-  
-
-  
-
- 
-
-  
-  
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
+ obsidian
 
 :::
 
@@ -224,29 +75,6 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
 *Think about something you enjoy doing. What qualities about yourself do you see coming through? What is important to you personally and professionally? How do you want to make people feel?*
 
-
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
 
   
 
@@ -268,26 +96,6 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
  
 
  
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
- 
-
-  
-
   
 
  
@@ -305,66 +113,6 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
   
 
  
-
-  
-
- 
-
-  
-
-  
-
- 
-
-  
-  
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
 
   
 
